@@ -1,0 +1,26 @@
+body {
+    font-family: 'Sansita', sans-serif;
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 450px;
+    background-color: rgb(241, 238, 238);
+    display: flex;
+    border-radius: 60px;
+    padding: 10px 15px;
+}
+
+.search-bar input {
+    background: transparent;
+    border: 0;
+    outline: none;
+
+}
+
+.search-bar button {
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 190px;
+}
